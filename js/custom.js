@@ -1143,7 +1143,7 @@ function initialize(id) {
 
     var locations = [
         //point number 1
-        ['Cactus Flats', 'Liberty Hill',39.47505, -98.007774]
+        ['Cactus Flats', 'Liberty Hill', 16.824517, 33.815918]
     ];
 
 /*** DON'T CHANGE ANYTHING PASSED THIS LINE ***/
