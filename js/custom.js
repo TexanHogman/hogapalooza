@@ -1150,7 +1150,7 @@ function initialize(id) {
 id = (id === undefined) ? 'mapWrapper' : id;
 
 var map = new google.maps.Map(document.getElementById(id), {
-    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    mapTypeId: google.maps.MapTypeId.HYBRID,
     scrollwheel: false,
     zoomControl: true,
     zoomControlOptions: {
