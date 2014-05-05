@@ -1143,7 +1143,7 @@ function initialize(id) {
 
     var locations = [
         //point number 1
-		['Cactus Flats', '200 S. Encino Xing, Liberty Hill, TX']		
+		['Hogapalooza', 'Cactus Flats', 30.664745, -98.024942]
     ];
 
 /*** DON'T CHANGE ANYTHING PASSED THIS LINE ***/
