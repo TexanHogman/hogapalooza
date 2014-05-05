@@ -1159,7 +1159,7 @@ var map = new google.maps.Map(document.getElementById(id), {
     },
     streetViewControl:true,
     scaleControl:false,
-    zoom: 14,
+    zoom: 19,
      styles:[
     {
         "featureType": "water",
