@@ -35,7 +35,8 @@ Description: layout styles
 .btn:active, .btn.active{
 -webkit-box-shadow:none;box-shadow:none
 }
-.container .jumbotron{border-radius: 0;}
+
+.container .jumbotron{border-radius: 0; }
 .jumbotron {font-size: 16px;}
 .jumbotron h1 {text-align: left;}
 /*forms*/
@@ -534,7 +535,7 @@ hr {
 /* HEADER
 ================================================== */
 #mainHeader{background:#eee;}
-.navbar-brand{padding-top:30px;padding-left: 0;}
+.navbar-brand{padding-top:10px; padding-left: 0; padding-right: 0px; padding-bottom: 10px;}
 
 
 .fixedHeader {
