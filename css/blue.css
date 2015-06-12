@@ -210,7 +210,6 @@ p.credits a {
 ================================================== */
 
 /*** FLEX ***/
-
 .flexslider {
 	box-shadow:none;
 }
@@ -249,9 +248,13 @@ p.credits a {
 /*** flexHome ***/
 #flexHome  h1 {	color:#2EFE2E;
 	background:none;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #fff;
 	}
 #flexHome  h2 {	color:#2EFE2E;
 	background:none;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #fff;
 }
 
 /*** END FLEX SLIDER ***/
