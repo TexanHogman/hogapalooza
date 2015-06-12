@@ -771,7 +771,15 @@ margin-bottom:-44px;
 }
 
 @media(min-width:1200px){
-	#flexHome h1 {font-size: 80px;}
+	#flexHome h1 {
+		font-size: 60px;
+		-webkit-text-stroke-width: 2px;
+		-webkit-text-stroke-color: #fff;
+	}
+	#flexHome h2 {
+		-webkit-text-stroke-width: .5px;
+		-webkit-text-stroke-color: #fff;
+	}
 	#flexHome {
 		margin-top:88px;
 		}
