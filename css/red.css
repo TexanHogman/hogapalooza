@@ -393,10 +393,10 @@ border:none}
 .color4 h1, .color4 h2, .color4 h3, .color4 h4, .color4 blockquote, .color4 a {
 	color:#fff;
 }
-
 .color4 h2.subTitle:after, .color4 h1.noSubtitle:after {
 	background:#fff;
 }
+
 /*** icons ***/
 .iconRounded {border:2px solid #C24F4F;color:#C24F4F;background-color:#fff;}
 .iconRounded:hover, .color1 .iconRounded:hover{background-color:#C24F4F;color:#fff;}
