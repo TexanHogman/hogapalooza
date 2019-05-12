@@ -627,8 +627,7 @@ body#fullScreen #mainHeader{display:none;}
 #mapWrapper{ height:350px; }
 
 #homeFullScreen {
-	background-image: url('../images/theme-pics/pool.jpg');
-	/*background-image: url('../images/theme-pics/paralax-1.jpg');*/
+	background-image: url('../images/theme-pics/paralax-home.jpg');
 	height:100%;
 	display:table;
 }
